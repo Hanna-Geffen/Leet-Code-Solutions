@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T9KbxjdJlmOaPnapPktpmTAHYy8FMqSJNH6Ll8WJ5q+AxUx+EOkyaDtChGbXG0bF9Ps9L65NAeZzu6vxp+14ZQ==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\hanna\\Desktop\\LeetCode\\20. Valid Parentheses\\20. Valid Parentheses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hanna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

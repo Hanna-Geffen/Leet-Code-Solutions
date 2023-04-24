@@ -1,0 +1,13 @@
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\20. Valid Parentheses\obj\Debug\netcoreapp3.1\20. Valid Parentheses.AssemblyInfoInputs.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\20. Valid Parentheses\obj\Debug\netcoreapp3.1\20. Valid Parentheses.AssemblyInfo.cs
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\20. Valid Parentheses\obj\Debug\netcoreapp3.1\20. Valid Parentheses.csproj.CoreCompileInputs.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\20. Valid Parentheses\bin\Debug\netcoreapp3.1\20. Valid Parentheses.exe
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\20. Valid Parentheses\bin\Debug\netcoreapp3.1\20. Valid Parentheses.deps.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\20. Valid Parentheses\bin\Debug\netcoreapp3.1\20. Valid Parentheses.runtimeconfig.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\20. Valid Parentheses\bin\Debug\netcoreapp3.1\20. Valid Parentheses.runtimeconfig.dev.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\20. Valid Parentheses\bin\Debug\netcoreapp3.1\20. Valid Parentheses.dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\20. Valid Parentheses\bin\Debug\netcoreapp3.1\20. Valid Parentheses.pdb
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\20. Valid Parentheses\obj\Debug\netcoreapp3.1\20. Valid Parentheses.dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\20. Valid Parentheses\obj\Debug\netcoreapp3.1\20. Valid Parentheses.pdb
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\20. Valid Parentheses\obj\Debug\netcoreapp3.1\20. Valid Parentheses.genruntimeconfig.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\20. Valid Parentheses\obj\Debug\netcoreapp3.1\20. Valid Parentheses.csproj.AssemblyReference.cache

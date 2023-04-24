@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QHeT3aC58vCBzDUXB7I7agzKfOArIQqymMJll2KBxooHFB054LbEBfsid9cd0OfFiTF+gVxbpVieFGGkIIXnYw==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\hanna\\Desktop\\LeetCode\\14. Longest Common Prefix\\14. Longest Common Prefix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hanna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
