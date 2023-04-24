@@ -1,7 +1,7 @@
 <h1 align="center">Leet-Code-Solutions</h1>
 <h3 align="center">My LeetCode Solutions for Interview Preparation</h3>
 
-This GitHub repository contains my solutions to a variety of coding exercises from **LeetCode**, a popular platform for interview preparation. 
+This GitHub repository contains my solutions to a variety of coding exercises from **[LeetCode](https://leetcode.com/problemset/all/)**, a popular platform for interview preparation. 
 <!---
 These solutions are implemented in various programming languages such as Python, Java, C++, and more, and are designed to help you prepare for technical interviews.
 --->
