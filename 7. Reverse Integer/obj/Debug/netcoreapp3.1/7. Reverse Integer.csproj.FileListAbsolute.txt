@@ -1,0 +1,13 @@
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\7. Reverse Integer\bin\Debug\netcoreapp3.1\7. Reverse Integer.exe
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\7. Reverse Integer\bin\Debug\netcoreapp3.1\7. Reverse Integer.deps.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\7. Reverse Integer\bin\Debug\netcoreapp3.1\7. Reverse Integer.runtimeconfig.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\7. Reverse Integer\bin\Debug\netcoreapp3.1\7. Reverse Integer.runtimeconfig.dev.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\7. Reverse Integer\bin\Debug\netcoreapp3.1\7. Reverse Integer.dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\7. Reverse Integer\bin\Debug\netcoreapp3.1\7. Reverse Integer.pdb
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\7. Reverse Integer\obj\Debug\netcoreapp3.1\7. Reverse Integer.AssemblyInfoInputs.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\7. Reverse Integer\obj\Debug\netcoreapp3.1\7. Reverse Integer.AssemblyInfo.cs
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\7. Reverse Integer\obj\Debug\netcoreapp3.1\7. Reverse Integer.csproj.CoreCompileInputs.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\7. Reverse Integer\obj\Debug\netcoreapp3.1\7. Reverse Integer.dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\7. Reverse Integer\obj\Debug\netcoreapp3.1\7. Reverse Integer.pdb
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\7. Reverse Integer\obj\Debug\netcoreapp3.1\7. Reverse Integer.genruntimeconfig.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\7. Reverse Integer\obj\Debug\netcoreapp3.1\7. Reverse Integer.csproj.AssemblyReference.cache

@@ -1,0 +1,13 @@
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\1. Two Sum\bin\Debug\netcoreapp3.1\1. Two Sum.exe
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\1. Two Sum\bin\Debug\netcoreapp3.1\1. Two Sum.deps.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\1. Two Sum\bin\Debug\netcoreapp3.1\1. Two Sum.runtimeconfig.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\1. Two Sum\bin\Debug\netcoreapp3.1\1. Two Sum.runtimeconfig.dev.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\1. Two Sum\bin\Debug\netcoreapp3.1\1. Two Sum.dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\1. Two Sum\bin\Debug\netcoreapp3.1\1. Two Sum.pdb
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\1. Two Sum\obj\Debug\netcoreapp3.1\1. Two Sum.AssemblyInfoInputs.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\1. Two Sum\obj\Debug\netcoreapp3.1\1. Two Sum.AssemblyInfo.cs
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\1. Two Sum\obj\Debug\netcoreapp3.1\1. Two Sum.csproj.CoreCompileInputs.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\1. Two Sum\obj\Debug\netcoreapp3.1\1. Two Sum.dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\1. Two Sum\obj\Debug\netcoreapp3.1\1. Two Sum.pdb
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\1. Two Sum\obj\Debug\netcoreapp3.1\1. Two Sum.genruntimeconfig.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\1. Two Sum\obj\Debug\netcoreapp3.1\1. Two Sum.csproj.AssemblyReference.cache
