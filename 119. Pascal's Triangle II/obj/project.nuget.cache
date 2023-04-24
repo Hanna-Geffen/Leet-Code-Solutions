@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "APKvjl2rAIFTWHxGo712m7zz8Gi7lWV3jr8bMBH1pZK8C3S5A1ljmruFuzMJtWVlXcctFcAPOX5IfmqM3hzBmQ==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\hanna\\Desktop\\LeetCode\\119. Pascal's Triangle II\\119. Pascal's Triangle II.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hanna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

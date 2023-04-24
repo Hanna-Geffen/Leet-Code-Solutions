@@ -1,0 +1,13 @@
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\136. Single Number\bin\Debug\netcoreapp3.1\136. Single Number.exe
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\136. Single Number\bin\Debug\netcoreapp3.1\136. Single Number.deps.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\136. Single Number\bin\Debug\netcoreapp3.1\136. Single Number.runtimeconfig.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\136. Single Number\bin\Debug\netcoreapp3.1\136. Single Number.runtimeconfig.dev.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\136. Single Number\bin\Debug\netcoreapp3.1\136. Single Number.dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\136. Single Number\bin\Debug\netcoreapp3.1\136. Single Number.pdb
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\136. Single Number\obj\Debug\netcoreapp3.1\136. Single Number.AssemblyInfoInputs.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\136. Single Number\obj\Debug\netcoreapp3.1\136. Single Number.AssemblyInfo.cs
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\136. Single Number\obj\Debug\netcoreapp3.1\136. Single Number.csproj.CoreCompileInputs.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\136. Single Number\obj\Debug\netcoreapp3.1\136. Single Number.dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\136. Single Number\obj\Debug\netcoreapp3.1\136. Single Number.pdb
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\136. Single Number\obj\Debug\netcoreapp3.1\136. Single Number.genruntimeconfig.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\136. Single Number\obj\Debug\netcoreapp3.1\136. Single Number.csproj.AssemblyReference.cache
