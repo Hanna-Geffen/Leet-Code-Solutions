@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1abvaY2dyCmZLn2/CcMZyFBwOE0aWYFny5QGDDNVk/JkV6kx/PjnXJGT6Z4G4fj4i6rccV8XYyMIdnLNLav8Sg==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\hanna\\Desktop\\LeetCode\\70. Climbing Stairs\\70. Climbing Stairs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hanna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

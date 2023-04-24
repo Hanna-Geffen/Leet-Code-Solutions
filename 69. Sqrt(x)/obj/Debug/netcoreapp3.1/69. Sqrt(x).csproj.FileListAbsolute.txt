@@ -1,0 +1,12 @@
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\69. Sqrt(x)\bin\Debug\netcoreapp3.1\69. Sqrt(x).exe
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\69. Sqrt(x)\bin\Debug\netcoreapp3.1\69. Sqrt(x).deps.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\69. Sqrt(x)\bin\Debug\netcoreapp3.1\69. Sqrt(x).runtimeconfig.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\69. Sqrt(x)\bin\Debug\netcoreapp3.1\69. Sqrt(x).runtimeconfig.dev.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\69. Sqrt(x)\bin\Debug\netcoreapp3.1\69. Sqrt(x).dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\69. Sqrt(x)\bin\Debug\netcoreapp3.1\69. Sqrt(x).pdb
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\69. Sqrt(x)\obj\Debug\netcoreapp3.1\69. Sqrt(x).AssemblyInfoInputs.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\69. Sqrt(x)\obj\Debug\netcoreapp3.1\69. Sqrt(x).AssemblyInfo.cs
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\69. Sqrt(x)\obj\Debug\netcoreapp3.1\69. Sqrt(x).csproj.CoreCompileInputs.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\69. Sqrt(x)\obj\Debug\netcoreapp3.1\69. Sqrt(x).dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\69. Sqrt(x)\obj\Debug\netcoreapp3.1\69. Sqrt(x).pdb
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\69. Sqrt(x)\obj\Debug\netcoreapp3.1\69. Sqrt(x).genruntimeconfig.cache

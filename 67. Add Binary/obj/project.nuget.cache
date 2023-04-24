@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eYCJ8lnVIEEoUUoxumgidbD/RXAe41Dau/L4bh7GbHh26sXH0hQKlUKI57reeEVTXF25jT1s2dUG6NbW+vS+Gg==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\hanna\\Desktop\\LeetCode\\67. Add Binary\\67. Add Binary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hanna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

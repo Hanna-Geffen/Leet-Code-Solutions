@@ -1,0 +1,12 @@
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\67. Add Binary\bin\Debug\netcoreapp3.1\67. Add Binary.exe
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\67. Add Binary\bin\Debug\netcoreapp3.1\67. Add Binary.deps.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\67. Add Binary\bin\Debug\netcoreapp3.1\67. Add Binary.runtimeconfig.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\67. Add Binary\bin\Debug\netcoreapp3.1\67. Add Binary.runtimeconfig.dev.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\67. Add Binary\bin\Debug\netcoreapp3.1\67. Add Binary.dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\67. Add Binary\bin\Debug\netcoreapp3.1\67. Add Binary.pdb
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\67. Add Binary\obj\Debug\netcoreapp3.1\67. Add Binary.AssemblyInfoInputs.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\67. Add Binary\obj\Debug\netcoreapp3.1\67. Add Binary.AssemblyInfo.cs
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\67. Add Binary\obj\Debug\netcoreapp3.1\67. Add Binary.csproj.CoreCompileInputs.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\67. Add Binary\obj\Debug\netcoreapp3.1\67. Add Binary.dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\67. Add Binary\obj\Debug\netcoreapp3.1\67. Add Binary.pdb
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\67. Add Binary\obj\Debug\netcoreapp3.1\67. Add Binary.genruntimeconfig.cache

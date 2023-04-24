@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JqhKbFE0Y3mo7ltLJtB8xQzOhAvI3pqIWBAyB4cWRcq6iA/3DtPIHUMQkgAh3DFhMipG1oG3vW+A3HFpU7AzMQ==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\hanna\\Desktop\\LeetCode\\69. Sqrt(x)\\69. Sqrt(x).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hanna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
