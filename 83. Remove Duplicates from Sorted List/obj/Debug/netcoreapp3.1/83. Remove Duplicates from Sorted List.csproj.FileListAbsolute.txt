@@ -1,0 +1,13 @@
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\83. Remove Duplicates from Sorted List\bin\Debug\netcoreapp3.1\83. Remove Duplicates from Sorted List.exe
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\83. Remove Duplicates from Sorted List\bin\Debug\netcoreapp3.1\83. Remove Duplicates from Sorted List.deps.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\83. Remove Duplicates from Sorted List\bin\Debug\netcoreapp3.1\83. Remove Duplicates from Sorted List.runtimeconfig.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\83. Remove Duplicates from Sorted List\bin\Debug\netcoreapp3.1\83. Remove Duplicates from Sorted List.runtimeconfig.dev.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\83. Remove Duplicates from Sorted List\bin\Debug\netcoreapp3.1\83. Remove Duplicates from Sorted List.dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\83. Remove Duplicates from Sorted List\bin\Debug\netcoreapp3.1\83. Remove Duplicates from Sorted List.pdb
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\83. Remove Duplicates from Sorted List\obj\Debug\netcoreapp3.1\83. Remove Duplicates from Sorted List.AssemblyInfoInputs.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\83. Remove Duplicates from Sorted List\obj\Debug\netcoreapp3.1\83. Remove Duplicates from Sorted List.AssemblyInfo.cs
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\83. Remove Duplicates from Sorted List\obj\Debug\netcoreapp3.1\83. Remove Duplicates from Sorted List.csproj.CoreCompileInputs.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\83. Remove Duplicates from Sorted List\obj\Debug\netcoreapp3.1\83. Remove Duplicates from Sorted List.dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\83. Remove Duplicates from Sorted List\obj\Debug\netcoreapp3.1\83. Remove Duplicates from Sorted List.pdb
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\83. Remove Duplicates from Sorted List\obj\Debug\netcoreapp3.1\83. Remove Duplicates from Sorted List.genruntimeconfig.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\83. Remove Duplicates from Sorted List\obj\Debug\netcoreapp3.1\83. Remove Duplicates from Sorted List.csproj.AssemblyReference.cache

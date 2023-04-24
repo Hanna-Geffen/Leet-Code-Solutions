@@ -1,0 +1,13 @@
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\118. Pascal's Triangle\bin\Debug\netcoreapp3.1\118. Pascal's Triangle.exe
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\118. Pascal's Triangle\bin\Debug\netcoreapp3.1\118. Pascal's Triangle.deps.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\118. Pascal's Triangle\bin\Debug\netcoreapp3.1\118. Pascal's Triangle.runtimeconfig.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\118. Pascal's Triangle\bin\Debug\netcoreapp3.1\118. Pascal's Triangle.runtimeconfig.dev.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\118. Pascal's Triangle\bin\Debug\netcoreapp3.1\118. Pascal's Triangle.dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\118. Pascal's Triangle\bin\Debug\netcoreapp3.1\118. Pascal's Triangle.pdb
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\118. Pascal's Triangle\obj\Debug\netcoreapp3.1\118. Pascal's Triangle.AssemblyInfoInputs.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\118. Pascal's Triangle\obj\Debug\netcoreapp3.1\118. Pascal's Triangle.AssemblyInfo.cs
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\118. Pascal's Triangle\obj\Debug\netcoreapp3.1\118. Pascal's Triangle.csproj.CoreCompileInputs.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\118. Pascal's Triangle\obj\Debug\netcoreapp3.1\118. Pascal's Triangle.dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\118. Pascal's Triangle\obj\Debug\netcoreapp3.1\118. Pascal's Triangle.pdb
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\118. Pascal's Triangle\obj\Debug\netcoreapp3.1\118. Pascal's Triangle.genruntimeconfig.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\118. Pascal's Triangle\obj\Debug\netcoreapp3.1\118. Pascal's Triangle.csproj.AssemblyReference.cache
