@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Eqp1Egs9ZZ3Ie2F72K7FOG5f5BSt3zaCGx5KXv0Cod7A1uqTvnmTqxtcWZyHC1SkHABUJ+8wbNxK2kz0AmYWag==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\hanna\\Desktop\\LeetCode\\26.1 Remove Duplicates from Unsorted Array\\26.1 Remove Duplicates from Unsorted Array.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hanna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
