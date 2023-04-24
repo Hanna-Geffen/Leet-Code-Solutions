@@ -1,0 +1,5 @@
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\278. First Bad Version\obj\Debug\net5.0\278. First Bad Version.csproj.AssemblyReference.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\278. First Bad Version\obj\Debug\net5.0\278. First Bad Version.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\278. First Bad Version\obj\Debug\net5.0\278. First Bad Version.AssemblyInfoInputs.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\278. First Bad Version\obj\Debug\net5.0\278. First Bad Version.AssemblyInfo.cs
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\278. First Bad Version\obj\Debug\net5.0\278. First Bad Version.csproj.CoreCompileInputs.cache

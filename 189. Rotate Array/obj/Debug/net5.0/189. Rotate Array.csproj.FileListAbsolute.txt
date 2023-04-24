@@ -1,0 +1,16 @@
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\189. Rotate Array\bin\Debug\net5.0\189. Rotate Array.exe
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\189. Rotate Array\bin\Debug\net5.0\189. Rotate Array.deps.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\189. Rotate Array\bin\Debug\net5.0\189. Rotate Array.runtimeconfig.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\189. Rotate Array\bin\Debug\net5.0\189. Rotate Array.runtimeconfig.dev.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\189. Rotate Array\bin\Debug\net5.0\189. Rotate Array.dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\189. Rotate Array\bin\Debug\net5.0\ref\189. Rotate Array.dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\189. Rotate Array\bin\Debug\net5.0\189. Rotate Array.pdb
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\189. Rotate Array\obj\Debug\net5.0\189. Rotate Array.csproj.AssemblyReference.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\189. Rotate Array\obj\Debug\net5.0\189. Rotate Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\189. Rotate Array\obj\Debug\net5.0\189. Rotate Array.AssemblyInfoInputs.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\189. Rotate Array\obj\Debug\net5.0\189. Rotate Array.AssemblyInfo.cs
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\189. Rotate Array\obj\Debug\net5.0\189. Rotate Array.csproj.CoreCompileInputs.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\189. Rotate Array\obj\Debug\net5.0\189. Rotate Array.dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\189. Rotate Array\obj\Debug\net5.0\ref\189. Rotate Array.dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\189. Rotate Array\obj\Debug\net5.0\189. Rotate Array.pdb
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\189. Rotate Array\obj\Debug\net5.0\189. Rotate Array.genruntimeconfig.cache

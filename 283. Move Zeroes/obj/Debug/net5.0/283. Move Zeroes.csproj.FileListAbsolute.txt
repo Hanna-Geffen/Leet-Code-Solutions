@@ -1,0 +1,16 @@
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\283. Move Zeroes\bin\Debug\net5.0\283. Move Zeroes.exe
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\283. Move Zeroes\bin\Debug\net5.0\283. Move Zeroes.deps.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\283. Move Zeroes\bin\Debug\net5.0\283. Move Zeroes.runtimeconfig.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\283. Move Zeroes\bin\Debug\net5.0\283. Move Zeroes.runtimeconfig.dev.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\283. Move Zeroes\bin\Debug\net5.0\283. Move Zeroes.dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\283. Move Zeroes\bin\Debug\net5.0\ref\283. Move Zeroes.dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\283. Move Zeroes\bin\Debug\net5.0\283. Move Zeroes.pdb
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\283. Move Zeroes\obj\Debug\net5.0\283. Move Zeroes.csproj.AssemblyReference.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\283. Move Zeroes\obj\Debug\net5.0\283. Move Zeroes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\283. Move Zeroes\obj\Debug\net5.0\283. Move Zeroes.AssemblyInfoInputs.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\283. Move Zeroes\obj\Debug\net5.0\283. Move Zeroes.AssemblyInfo.cs
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\283. Move Zeroes\obj\Debug\net5.0\283. Move Zeroes.csproj.CoreCompileInputs.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\283. Move Zeroes\obj\Debug\net5.0\283. Move Zeroes.dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\283. Move Zeroes\obj\Debug\net5.0\ref\283. Move Zeroes.dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\283. Move Zeroes\obj\Debug\net5.0\283. Move Zeroes.pdb
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\283. Move Zeroes\obj\Debug\net5.0\283. Move Zeroes.genruntimeconfig.cache
