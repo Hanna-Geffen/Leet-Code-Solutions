@@ -1,0 +1,16 @@
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\557. Reverse Words in a String III\bin\Debug\net5.0\557. Reverse Words in a String III.exe
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\557. Reverse Words in a String III\bin\Debug\net5.0\557. Reverse Words in a String III.deps.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\557. Reverse Words in a String III\bin\Debug\net5.0\557. Reverse Words in a String III.runtimeconfig.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\557. Reverse Words in a String III\bin\Debug\net5.0\557. Reverse Words in a String III.runtimeconfig.dev.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\557. Reverse Words in a String III\bin\Debug\net5.0\557. Reverse Words in a String III.dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\557. Reverse Words in a String III\bin\Debug\net5.0\ref\557. Reverse Words in a String III.dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\557. Reverse Words in a String III\bin\Debug\net5.0\557. Reverse Words in a String III.pdb
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\557. Reverse Words in a String III\obj\Debug\net5.0\557. Reverse Words in a String III.csproj.AssemblyReference.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\557. Reverse Words in a String III\obj\Debug\net5.0\557. Reverse Words in a String III.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\557. Reverse Words in a String III\obj\Debug\net5.0\557. Reverse Words in a String III.AssemblyInfoInputs.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\557. Reverse Words in a String III\obj\Debug\net5.0\557. Reverse Words in a String III.AssemblyInfo.cs
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\557. Reverse Words in a String III\obj\Debug\net5.0\557. Reverse Words in a String III.csproj.CoreCompileInputs.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\557. Reverse Words in a String III\obj\Debug\net5.0\557. Reverse Words in a String III.dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\557. Reverse Words in a String III\obj\Debug\net5.0\ref\557. Reverse Words in a String III.dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\557. Reverse Words in a String III\obj\Debug\net5.0\557. Reverse Words in a String III.pdb
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\557. Reverse Words in a String III\obj\Debug\net5.0\557. Reverse Words in a String III.genruntimeconfig.cache
