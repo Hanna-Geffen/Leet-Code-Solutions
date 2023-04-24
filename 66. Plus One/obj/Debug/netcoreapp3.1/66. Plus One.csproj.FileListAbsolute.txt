@@ -1,0 +1,13 @@
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\66. Plus One\bin\Debug\netcoreapp3.1\66. Plus One.exe
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\66. Plus One\bin\Debug\netcoreapp3.1\66. Plus One.deps.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\66. Plus One\bin\Debug\netcoreapp3.1\66. Plus One.runtimeconfig.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\66. Plus One\bin\Debug\netcoreapp3.1\66. Plus One.runtimeconfig.dev.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\66. Plus One\bin\Debug\netcoreapp3.1\66. Plus One.dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\66. Plus One\bin\Debug\netcoreapp3.1\66. Plus One.pdb
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\66. Plus One\obj\Debug\netcoreapp3.1\66. Plus One.AssemblyInfoInputs.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\66. Plus One\obj\Debug\netcoreapp3.1\66. Plus One.AssemblyInfo.cs
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\66. Plus One\obj\Debug\netcoreapp3.1\66. Plus One.csproj.CoreCompileInputs.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\66. Plus One\obj\Debug\netcoreapp3.1\66. Plus One.dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\66. Plus One\obj\Debug\netcoreapp3.1\66. Plus One.pdb
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\66. Plus One\obj\Debug\netcoreapp3.1\66. Plus One.genruntimeconfig.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\66. Plus One\obj\Debug\netcoreapp3.1\66. Plus One.csproj.AssemblyReference.cache

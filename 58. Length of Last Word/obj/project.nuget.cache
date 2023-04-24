@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cV+RD4t1Xzunq7KPoY3YR4TYjayfPTK7movdoj4GDeikyHaD3uHJ65Xm7tgkdEGZ5PPmrSCk3DTctQNvH5ZJ1w==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\hanna\\Desktop\\LeetCode\\58. Length of Last Word\\58. Length of Last Word.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hanna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

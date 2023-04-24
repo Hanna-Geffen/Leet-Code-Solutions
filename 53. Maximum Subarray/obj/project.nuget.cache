@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M1hizD/fxRST7JsLImEGDWp9IwJ/QTDKvHhwRAUkcJeEHe5xwz1LApWkEPVpk1VhxZIyUIZGL14UgSpcOWIO5Q==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\hanna\\Desktop\\LeetCode\\53. Maximum Subarray\\53. Maximum Subarray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hanna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

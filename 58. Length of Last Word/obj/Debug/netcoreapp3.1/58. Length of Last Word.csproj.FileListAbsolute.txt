@@ -1,0 +1,13 @@
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\58. Length of Last Word\bin\Debug\netcoreapp3.1\58. Length of Last Word.exe
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\58. Length of Last Word\bin\Debug\netcoreapp3.1\58. Length of Last Word.deps.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\58. Length of Last Word\bin\Debug\netcoreapp3.1\58. Length of Last Word.runtimeconfig.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\58. Length of Last Word\bin\Debug\netcoreapp3.1\58. Length of Last Word.runtimeconfig.dev.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\58. Length of Last Word\bin\Debug\netcoreapp3.1\58. Length of Last Word.dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\58. Length of Last Word\bin\Debug\netcoreapp3.1\58. Length of Last Word.pdb
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\58. Length of Last Word\obj\Debug\netcoreapp3.1\58. Length of Last Word.AssemblyInfoInputs.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\58. Length of Last Word\obj\Debug\netcoreapp3.1\58. Length of Last Word.AssemblyInfo.cs
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\58. Length of Last Word\obj\Debug\netcoreapp3.1\58. Length of Last Word.csproj.CoreCompileInputs.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\58. Length of Last Word\obj\Debug\netcoreapp3.1\58. Length of Last Word.dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\58. Length of Last Word\obj\Debug\netcoreapp3.1\58. Length of Last Word.pdb
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\58. Length of Last Word\obj\Debug\netcoreapp3.1\58. Length of Last Word.genruntimeconfig.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\58. Length of Last Word\obj\Debug\netcoreapp3.1\58. Length of Last Word.csproj.AssemblyReference.cache
