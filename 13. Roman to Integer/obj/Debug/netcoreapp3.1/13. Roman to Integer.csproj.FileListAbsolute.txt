@@ -1,0 +1,13 @@
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\13. Roman to Integer\bin\Debug\netcoreapp3.1\13. Roman to Integer.exe
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\13. Roman to Integer\bin\Debug\netcoreapp3.1\13. Roman to Integer.deps.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\13. Roman to Integer\bin\Debug\netcoreapp3.1\13. Roman to Integer.runtimeconfig.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\13. Roman to Integer\bin\Debug\netcoreapp3.1\13. Roman to Integer.runtimeconfig.dev.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\13. Roman to Integer\bin\Debug\netcoreapp3.1\13. Roman to Integer.dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\13. Roman to Integer\bin\Debug\netcoreapp3.1\13. Roman to Integer.pdb
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\13. Roman to Integer\obj\Debug\netcoreapp3.1\13. Roman to Integer.AssemblyInfoInputs.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\13. Roman to Integer\obj\Debug\netcoreapp3.1\13. Roman to Integer.AssemblyInfo.cs
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\13. Roman to Integer\obj\Debug\netcoreapp3.1\13. Roman to Integer.csproj.CoreCompileInputs.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\13. Roman to Integer\obj\Debug\netcoreapp3.1\13. Roman to Integer.dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\13. Roman to Integer\obj\Debug\netcoreapp3.1\13. Roman to Integer.pdb
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\13. Roman to Integer\obj\Debug\netcoreapp3.1\13. Roman to Integer.genruntimeconfig.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\13. Roman to Integer\obj\Debug\netcoreapp3.1\13. Roman to Integer.csproj.AssemblyReference.cache

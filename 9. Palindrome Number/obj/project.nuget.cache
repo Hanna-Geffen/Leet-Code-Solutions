@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/FmFwITS9jzyXtQzINqgHhftndUPwGsOvdcF/c4EINhTBhEpWLao/QR8BzNZqUjj8Njr3yZSPDZgrilQDccIYQ==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\hanna\\Desktop\\LeetCode\\9. Palindrome Number\\9. Palindrome Number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hanna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
