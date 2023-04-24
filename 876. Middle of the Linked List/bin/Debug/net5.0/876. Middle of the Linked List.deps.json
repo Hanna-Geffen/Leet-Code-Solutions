@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "876. Middle of the Linked List/1.0.0": {
+        "runtime": {
+          "876. Middle of the Linked List.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "876. Middle of the Linked List/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

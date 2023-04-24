@@ -1,0 +1,16 @@
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\977. Squares of a Sorted Array\bin\Debug\net5.0\977. Squares of a Sorted Array.exe
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\977. Squares of a Sorted Array\bin\Debug\net5.0\977. Squares of a Sorted Array.deps.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\977. Squares of a Sorted Array\bin\Debug\net5.0\977. Squares of a Sorted Array.runtimeconfig.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\977. Squares of a Sorted Array\bin\Debug\net5.0\977. Squares of a Sorted Array.runtimeconfig.dev.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\977. Squares of a Sorted Array\bin\Debug\net5.0\977. Squares of a Sorted Array.dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\977. Squares of a Sorted Array\bin\Debug\net5.0\ref\977. Squares of a Sorted Array.dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\977. Squares of a Sorted Array\bin\Debug\net5.0\977. Squares of a Sorted Array.pdb
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\977. Squares of a Sorted Array\obj\Debug\net5.0\977. Squares of a Sorted Array.csproj.AssemblyReference.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\977. Squares of a Sorted Array\obj\Debug\net5.0\977. Squares of a Sorted Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\977. Squares of a Sorted Array\obj\Debug\net5.0\977. Squares of a Sorted Array.AssemblyInfoInputs.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\977. Squares of a Sorted Array\obj\Debug\net5.0\977. Squares of a Sorted Array.AssemblyInfo.cs
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\977. Squares of a Sorted Array\obj\Debug\net5.0\977. Squares of a Sorted Array.csproj.CoreCompileInputs.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\977. Squares of a Sorted Array\obj\Debug\net5.0\977. Squares of a Sorted Array.dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\977. Squares of a Sorted Array\obj\Debug\net5.0\ref\977. Squares of a Sorted Array.dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\977. Squares of a Sorted Array\obj\Debug\net5.0\977. Squares of a Sorted Array.pdb
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\977. Squares of a Sorted Array\obj\Debug\net5.0\977. Squares of a Sorted Array.genruntimeconfig.cache

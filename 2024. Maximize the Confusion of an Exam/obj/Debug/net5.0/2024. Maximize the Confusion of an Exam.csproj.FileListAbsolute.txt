@@ -1,0 +1,5 @@
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\2024. Maximize the Confusion of an Exam\obj\Debug\net5.0\2024. Maximize the Confusion of an Exam.csproj.AssemblyReference.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\2024. Maximize the Confusion of an Exam\obj\Debug\net5.0\2024. Maximize the Confusion of an Exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\2024. Maximize the Confusion of an Exam\obj\Debug\net5.0\2024. Maximize the Confusion of an Exam.AssemblyInfoInputs.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\2024. Maximize the Confusion of an Exam\obj\Debug\net5.0\2024. Maximize the Confusion of an Exam.AssemblyInfo.cs
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\2024. Maximize the Confusion of an Exam\obj\Debug\net5.0\2024. Maximize the Confusion of an Exam.csproj.CoreCompileInputs.cache
