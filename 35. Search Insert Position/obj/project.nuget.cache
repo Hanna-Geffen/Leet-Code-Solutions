@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OfaGzPIgA5lJVEMyhb+p9acHnhP3xfuPr05wMEs/3Fmd9ZW8H5LIPwQHkXtpDRWs+g9nqprXSq5P1Pso2OjjNA==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\hanna\\Desktop\\LeetCode\\35. Search Insert Position\\35. Search Insert Position.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hanna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

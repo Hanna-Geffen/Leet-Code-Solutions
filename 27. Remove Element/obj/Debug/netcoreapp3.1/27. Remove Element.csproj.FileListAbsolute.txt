@@ -1,0 +1,13 @@
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\27. Remove Element\bin\Debug\netcoreapp3.1\27. Remove Element.exe
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\27. Remove Element\bin\Debug\netcoreapp3.1\27. Remove Element.deps.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\27. Remove Element\bin\Debug\netcoreapp3.1\27. Remove Element.runtimeconfig.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\27. Remove Element\bin\Debug\netcoreapp3.1\27. Remove Element.runtimeconfig.dev.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\27. Remove Element\bin\Debug\netcoreapp3.1\27. Remove Element.dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\27. Remove Element\bin\Debug\netcoreapp3.1\27. Remove Element.pdb
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\27. Remove Element\obj\Debug\netcoreapp3.1\27. Remove Element.AssemblyInfoInputs.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\27. Remove Element\obj\Debug\netcoreapp3.1\27. Remove Element.AssemblyInfo.cs
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\27. Remove Element\obj\Debug\netcoreapp3.1\27. Remove Element.csproj.CoreCompileInputs.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\27. Remove Element\obj\Debug\netcoreapp3.1\27. Remove Element.dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\27. Remove Element\obj\Debug\netcoreapp3.1\27. Remove Element.pdb
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\27. Remove Element\obj\Debug\netcoreapp3.1\27. Remove Element.genruntimeconfig.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\27. Remove Element\obj\Debug\netcoreapp3.1\27. Remove Element.csproj.AssemblyReference.cache

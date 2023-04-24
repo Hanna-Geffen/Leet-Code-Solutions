@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "18TzB8fh2TAaCxnXqgMhOPsyWm87k8+YQ8Nafo5bj/ILZ/AKJSkWoRpulGL3Ylz9sWbY2ZXZx+wkQzg/FtS5oQ==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\hanna\\Desktop\\LeetCode\\27. Remove Element\\27. Remove Element.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hanna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\35. Search Insert Position\obj\Debug\netcoreapp3.1\35. Search Insert Position.AssemblyInfoInputs.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\35. Search Insert Position\obj\Debug\netcoreapp3.1\35. Search Insert Position.AssemblyInfo.cs
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\35. Search Insert Position\obj\Debug\netcoreapp3.1\35. Search Insert Position.csproj.CoreCompileInputs.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\35. Search Insert Position\bin\Debug\netcoreapp3.1\35. Search Insert Position.exe
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\35. Search Insert Position\bin\Debug\netcoreapp3.1\35. Search Insert Position.deps.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\35. Search Insert Position\bin\Debug\netcoreapp3.1\35. Search Insert Position.runtimeconfig.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\35. Search Insert Position\bin\Debug\netcoreapp3.1\35. Search Insert Position.runtimeconfig.dev.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\35. Search Insert Position\bin\Debug\netcoreapp3.1\35. Search Insert Position.dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\35. Search Insert Position\bin\Debug\netcoreapp3.1\35. Search Insert Position.pdb
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\35. Search Insert Position\obj\Debug\netcoreapp3.1\35. Search Insert Position.dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\35. Search Insert Position\obj\Debug\netcoreapp3.1\35. Search Insert Position.pdb
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\35. Search Insert Position\obj\Debug\netcoreapp3.1\35. Search Insert Position.genruntimeconfig.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\35. Search Insert Position\obj\Debug\netcoreapp3.1\35. Search Insert Position.csproj.AssemblyReference.cache

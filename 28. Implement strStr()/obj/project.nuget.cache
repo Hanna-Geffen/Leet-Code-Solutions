@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UBDRSGgIDPIu8ROVDar+Gno9O7n0R6JpffUZq0F4JTs8ZBb2E4Ki7qHXL9FDJf9Oq3PomyMDANsCcUSPKBbJ/w==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\hanna\\Desktop\\LeetCode\\28. Implement strStr()\\28. Implement strStr().csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hanna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\28. Implement strStr()\bin\Debug\netcoreapp3.1\28. Implement strStr().exe
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\28. Implement strStr()\bin\Debug\netcoreapp3.1\28. Implement strStr().deps.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\28. Implement strStr()\bin\Debug\netcoreapp3.1\28. Implement strStr().runtimeconfig.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\28. Implement strStr()\bin\Debug\netcoreapp3.1\28. Implement strStr().runtimeconfig.dev.json
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\28. Implement strStr()\bin\Debug\netcoreapp3.1\28. Implement strStr().dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\28. Implement strStr()\bin\Debug\netcoreapp3.1\28. Implement strStr().pdb
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\28. Implement strStr()\obj\Debug\netcoreapp3.1\28. Implement strStr().AssemblyInfoInputs.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\28. Implement strStr()\obj\Debug\netcoreapp3.1\28. Implement strStr().AssemblyInfo.cs
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\28. Implement strStr()\obj\Debug\netcoreapp3.1\28. Implement strStr().csproj.CoreCompileInputs.cache
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\28. Implement strStr()\obj\Debug\netcoreapp3.1\28. Implement strStr().dll
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\28. Implement strStr()\obj\Debug\netcoreapp3.1\28. Implement strStr().pdb
+D:\Users\hanna\Desktop\VisualStudioProjects\LeetCode\28. Implement strStr()\obj\Debug\netcoreapp3.1\28. Implement strStr().genruntimeconfig.cache
